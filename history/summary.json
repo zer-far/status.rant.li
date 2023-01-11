@@ -4,18 +4,19 @@
     "url": "https://www.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/www.rant.li.ico",
     "slug": "rant-li",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 679,
-    "timeDay": 752,
-    "timeWeek": 785,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "time": 659,
+    "timeDay": 462,
+    "timeWeek": 709,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2023-01-01": 18
     }
   }
