@@ -4,18 +4,19 @@
     "url": "https://www.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/www.rant.li.ico",
     "slug": "rant-li",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 669,
-    "timeDay": 626,
-    "timeWeek": 702,
-    "timeMonth": 678,
-    "timeYear": 669,
+    "time": 662,
+    "timeDay": 528,
+    "timeWeek": 665,
+    "timeMonth": 669,
+    "timeYear": 662,
     "dailyMinutesDown": {
+      "2023-01-28": 0,
       "2023-01-26": 22,
       "2023-01-01": 18
     }
@@ -25,19 +26,19 @@
     "url": "https://metrics.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.rant.li.ico",
     "slug": "metrics",
-    "status": "up",
-    "uptime": "64.62%",
-    "uptimeDay": "64.62%",
-    "uptimeWeek": "64.62%",
-    "uptimeMonth": "64.62%",
-    "uptimeYear": "64.62%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1422,
+    "timeDay": 1422,
+    "timeWeek": 1422,
+    "timeMonth": 1422,
+    "timeYear": 1422,
     "dailyMinutesDown": {
-      "2023-01-28": 8
+      "2023-01-28": 0
     }
   }
 ]
