@@ -25,17 +25,19 @@
     "url": "https://metrics.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.rant.li.ico",
     "slug": "metrics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 631,
-    "timeWeek": 631,
-    "timeMonth": 631,
-    "timeYear": 631,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 494,
+    "timeDay": 494,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   }
 ]
