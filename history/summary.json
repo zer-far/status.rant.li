@@ -4,7 +4,7 @@
     "url": "https://www.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/www.rant.li.ico",
     "slug": "rant-li",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
@@ -16,6 +16,7 @@
     "timeMonth": 1214,
     "timeYear": 897,
     "dailyMinutesDown": {
+      "2023-04-01": 0,
       "2023-03-29": 193,
       "2023-03-24": 206,
       "2023-03-23": 15,
