@@ -1,7 +1,7 @@
 url: https://www.rant.li
-status: up
-code: 200
-responseTime: 1716
-lastUpdated: 2023-05-29T23:14:19.350Z
+status: down
+code: 500
+responseTime: 9101
+lastUpdated: 2023-05-30T15:31:06.943Z
 startTime: Thu Dec 22 2022 16:50:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
