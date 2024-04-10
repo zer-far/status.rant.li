@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rant.li.ico",
     "slug": "rant-li",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
-    "time": 1503,
-    "timeDay": 624,
-    "timeWeek": 918,
-    "timeMonth": 1015,
-    "timeYear": 1614,
+    "uptimeYear": "98.30%",
+    "time": 1504,
+    "timeDay": 1054,
+    "timeWeek": 945,
+    "timeMonth": 1017,
+    "timeYear": 1616,
     "dailyMinutesDown": {
       "2024-03-08": 53,
       "2023-11-16": 1208,
@@ -53,8 +53,7 @@
       "2023-04-19": 145,
       "2023-04-17": 115,
       "2023-04-14": 1168,
-      "2023-04-13": 6,
-      "2023-04-11": 22
+      "2023-04-13": 6
     }
   },
   {
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 186,
-    "timeWeek": 240,
-    "timeMonth": 189,
+    "timeDay": 205,
+    "timeWeek": 252,
+    "timeMonth": 186,
     "timeYear": 213,
     "dailyMinutesDown": {}
   }
