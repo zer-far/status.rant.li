@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.09%",
     "time": 1536,
     "timeDay": 890,
     "timeWeek": 927,
@@ -32,20 +32,17 @@
     "url": "https://plausible.farid.top",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.farid.top.ico",
     "slug": "plausible",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
-    "dailyMinutesDown": {
-      "2024-06-08": 76,
-      "2024-06-07": 258
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 406,
+    "timeDay": 406,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {}
   }
 ]
