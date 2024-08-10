@@ -33,18 +33,19 @@
     "url": "https://plausible.farid.top",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.farid.top.ico",
     "slug": "plausible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 665,
-    "timeDay": 585,
-    "timeWeek": 627,
-    "timeMonth": 619,
+    "timeDay": 641,
+    "timeWeek": 635,
+    "timeMonth": 622,
     "timeYear": 665,
     "dailyMinutesDown": {
+      "2024-08-10": 0,
       "2024-07-02": 246
     }
   }
