@@ -4,18 +4,19 @@
     "url": "https://www.rant.li",
     "icon": "https://icons.duckduckgo.com/ip3/www.rant.li.ico",
     "slug": "rant-li",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
-    "time": 1250,
+    "time": 1249,
     "timeDay": 1321,
     "timeWeek": 1122,
     "timeMonth": 1014,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2024-10-17": 2,
       "2024-07-02": 246,
       "2024-06-10": 6,
       "2024-03-08": 53,
@@ -31,7 +32,7 @@
     "url": "https://plausible.farid.top",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.farid.top.ico",
     "slug": "plausible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +44,7 @@
     "timeMonth": 679,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2024-10-17": 0,
       "2024-07-02": 246
     }
   }
