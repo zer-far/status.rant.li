@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1076,
-    "timeDay": 224,
-    "timeWeek": 162,
-    "timeMonth": 381,
-    "timeYear": 1040,
-    "dailyMinutesDown": {
-      "2025-02-08": 13
-    }
+    "time": 1074,
+    "timeDay": 228,
+    "timeWeek": 139,
+    "timeMonth": 383,
+    "timeYear": 1038,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plausible",
@@ -30,14 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 699,
-    "timeDay": 1005,
-    "timeWeek": 817,
-    "timeMonth": 773,
+    "time": 700,
+    "timeDay": 656,
+    "timeWeek": 800,
+    "timeMonth": 770,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-04-03": 56,
-      "2025-02-08": 11
+      "2025-04-03": 56
     }
   }
 ]
